@@ -22,7 +22,9 @@ You can change the hotkey via the Mistype icon in the menu bar → Preferences.
 
 ### קישור להורדה
 
-[הורד את Mistype 1.1](https://github.com/ipintush/Mistype/releases/tag/v1.1)
+[**הורד את Mistype 1.1**](https://github.com/ipintush/Mistype/releases/tag/v1.1)
+
+---
 
 ### התקנה דרך הטרמינל
 
@@ -30,18 +32,40 @@ You can change the hotkey via the Mistype icon in the menu bar → Preferences.
 brew tap ipintush/mistype && brew install --cask mistype
 ```
 
+---
+
 ### התקנה ידנית (PKG)
 
-1. הורד את קובץ ה-PKG מהקישור למעלה ופתח אותו, ולך לפי ההוראות.
-2. במידת הצורך יש להיכנס להגדרות ← פרטיות ואבטחה ושם למטה לאשר את ההתקנה.
-3. לאחר ההתקנה, העבר את קובץ `Mistype.app` לתיקיית האפליקציות.
+לאחר ההורדה, פתח את קובץ ה-PKG ולך לפי ההוראות:
+
+![PKG Installer](docs/screenshot-1.png)
+
+אשר את הבקשה לגישה לתיקיית המסמכים ואת אימות ה-Touch ID / סיסמה:
+
+<p float="left">
+  <img src="docs/screenshot-3.png" width="300"/>
+  <img src="docs/screenshot-2.png" width="220"/>
+</p>
+
+לאחר ההתקנה תראו את המסך הבא:
+
+![Installation Successful](docs/screenshot-4.png)
+
+במידת הצורך, היכנס להגדרות ← פרטיות ואבטחה ואשר את ההתקנה שם למטה.
+
+---
 
 ### לאחר ההתקנה
 
-לאחר הפעלת האפליקציה תראו אייקון של מקלדת בשורת האייקונים העליונה. לחיצה על האייקון מאפשרת לשנות את קיצור המקלדת להפעלת היפוך השפה.
+העבר את `Mistype.app` לתיקיית האפליקציות:
 
-> **במידה וזה לא עובד** — בדקו שהרשאת הנגישות פעילה:
-> System Settings → Privacy & Security → Accessibility → ✔️ Granted
+![Mistype.app](docs/screenshot-5.png)
+
+לאחר הפעלת האפליקציה תראה אייקון מקלדת בשורת האייקונים העליונה. לחיצה עליו מאפשרת לשנות את קיצור הדרך.
+
+במידה וזה לא עובד, בדוק שהרשאת הנגישות פעילה — בשורה Accessibility צריך להופיע **Granted ✓**:
+
+![Accessibility Granted](docs/screenshot-6.png)
 
 ---
 
