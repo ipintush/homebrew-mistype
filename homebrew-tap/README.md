@@ -3,7 +3,7 @@
 Install Mistype without any Gatekeeper prompts:
 
 ```bash
-brew tap YOUR_GITHUB_USER/mistype
+brew tap ipintush/mistype
 brew install --cask mistype
 ```
 
