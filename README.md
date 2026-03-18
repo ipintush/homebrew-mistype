@@ -22,7 +22,7 @@ You can change the hotkey via the SwitchBack icon in the menu bar → Preference
 
 ### קישור להורדה
 
-[**הורד את SwitchBack 1.1**](https://github.com/ipintush/Mistype/releases/tag/v1.1)
+[**הורד את SwitchBack 1.1**](https://github.com/ipintush/SwitchBack/releases/tag/v1.1)
 
 ---
 
